@@ -1,5 +1,5 @@
 BSCpE-3B Software Design 
 Kenji - Leader
 Steven - Documentation
-Ressel -
+Ressel - Frontend Dev
 Reinier - 
