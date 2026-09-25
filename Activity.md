@@ -1,5 +1,5 @@
 BSCpE-3B Software Design 
-Kenji - 
+Kenji - Leader
 Steven - Documentation
 Ressel -
 Reinier - 
