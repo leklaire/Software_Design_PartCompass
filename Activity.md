@@ -1,5 +1,5 @@
 BSCpE-3B Software Design 
 Kenji - 
-Steven - 
+Steven - Documentation
 Ressel -
 Reinier - 
